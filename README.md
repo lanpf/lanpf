@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I am a Professor at Northwest University, Xi'an.
+- 🌱 I’m learning to use GitHub to share codes with students.
+- 😄 Enjoy programming.
